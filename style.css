@@ -1,3 +1,9 @@
 p {
   background-color: blue;
+  background-image: url("https://images.rbxcdn.com/5348266ea6c5e67b19d6a814cbbb70f6.jpg");
+}
+.test-before::after {
+    content: url("158210066_10578814.png");
+    display: block;
+    margin-top: 10px;
 }
